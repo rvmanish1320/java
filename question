@@ -1,0 +1,7 @@
+//write a java program for to read two number from the user  and perform modules opertation handle the case by the second number is zero using arithemetic exception.
+
+//create a program that read array siz from the user and allocates an arrays dynamically handles negative array size acception if the user enter a negative type.
+
+//write a java program  that read user name and tryes to convert the first therr character in to integer handle string index out of bound exception and number formate exception. 
+
+//write a java program that attempt to open a file aand then read its first line handle both file 0 found exception , input and output exception.
